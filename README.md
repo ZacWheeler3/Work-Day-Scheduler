@@ -6,9 +6,9 @@ Create a working calender/daily task tracker with save events for every single h
 ```
 ## Usage
 ```
-Github Repo: 
+Github Repo: https://github.com/ZacWheeler3/Work-Day-Scheduler
 
-Live Site: 
+Live Site: https://zacwheeler3.github.io/Work-Day-Scheduler/
 
 Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
